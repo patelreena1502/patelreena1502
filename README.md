@@ -39,6 +39,5 @@ Professional WordPress website for real estate advisory.
 ---
 
 ## 📫 Let’s Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📩 Email: your.email@example.com
+ 
+- 📩 Email: patelreena1502@gmail.com
