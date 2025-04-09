@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend:** React.js, Next.js, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS  
 **Backend:** Node.js, Express.js, PHP, CodeIgniter  
@@ -29,12 +29,6 @@ Customized Shopify-powered eCommerce web app.
 ### 🏢 [Seneca Group Website](https://github.com/patelreena1502/seneca-realestate-website)  
 Professional WordPress website for real estate advisory.  
 *Tech: WordPress, PHP, HTML/CSS, JavaScript*
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelreena1502&show_icons=true&theme=radical)
 
 ---
 
